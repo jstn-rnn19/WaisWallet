@@ -1,7 +1,5 @@
 # WaisWallet
 
-Perfect. That’s the right move — laying a solid foundation first will save you headaches later. Here's your updated 2-month plan with that in mind:
-
 
 ---
 
@@ -93,5 +91,4 @@ Goal: Polish UI/UX, deploy the app, and collect feedback
 
 ---
 
-Want a Figma UI checklist, a beginner-friendly Tailwind practice sheet, or a JavaScript crash course flow for these first two weeks? I can send one right now.
 
